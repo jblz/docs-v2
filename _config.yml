@@ -43,3 +43,5 @@ defaults:
       has_superbar: Yes
 
 exclude: [vendor]
+
+theme: jekyll-theme-minimal
